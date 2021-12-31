@@ -3,7 +3,7 @@
 ## 1) OTT Data Analysis
 
 ### Dataset Used: MoviesOnStreamingPlatforms.csv
-This platform draws a comparision based on the IMDb and Rotten Tomatoes ratings across 4 OTT platforms, namely, Netflix, Hulu, Prime Video and Disney+.
+This dataset draws a comparision based on the IMDb and Rotten Tomatoes ratings across 4 OTT platforms, namely, Netflix, Hulu, Prime Video and Disney+.
 
 Original Dataset Link (from Kaggle): https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
 

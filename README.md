@@ -1,4 +1,5 @@
 # OTT-Analysis-and-Movie-Recommendation-System
+
 ## 1) OTT Data Analysis
 
 ### Dataset Used: MoviesOnStreamingPlatforms.csv
@@ -12,6 +13,7 @@ Have also performed Data Visualisation to present the inferences in a more prese
 
 
 
+
 ## 2) Movie Recommendation System
 
 ### Datasets Used: Movies.csv, Ratings.csv 
@@ -22,4 +24,12 @@ Original Dataset Link (from Kaggle) for Movies.csv: https://www.kaggle.com/shubh
 Original Dataset Link (from Kaggle) for Ratings.csv: https://www.kaggle.com/shubhammehta21/movie-lens-small-latest-dataset?select=ratings.csv
 
 ### Recommendation System:
+We will be implementing Collaborative Filtering Recommender System. 
 
+Collaborative Filtering is the process of filtering for information or patterns using techniques involving collaboration among multiple agents, viewpoints, data sources, etc.
+
+There are two classes of Collaborative Filtering:
+
+User-based, which measures the similarity between target users and other users.
+
+Item-based, which measures the similarity between the items that target users rate or interact with and other items.
